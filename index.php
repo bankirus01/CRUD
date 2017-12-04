@@ -1,4 +1,3 @@
-Procedural Object Oriented PDO Download
 <!DOCTYPE html>
 <html lang="en">
 <head>
